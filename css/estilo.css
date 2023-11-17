@@ -361,3 +361,34 @@ section {
 .facts .count-box a:hover{
     color: #2eafec;
 }
+
+/*  SKILLS */
+.skills .progress{
+    height: 60px;
+    display: block;
+    background: none;
+    border-radius: 0;
+}
+.skills .progress .skill{
+    padding: 0;
+    margin: 0 0 6px 0;
+    text-transform: uppercase;
+    display: block;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #040b14;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
