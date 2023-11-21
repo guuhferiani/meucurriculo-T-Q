@@ -382,3 +382,17 @@ section {
     font-family: "Poppins", sans-serif;
     color: #040b14;
 }
+.skills .progress .skill .val {
+    float: right;
+    font-style: normal;
+}
+.skills .progress-bar {
+    background: #dce8f8;
+    height: 10px;
+}
+.skills .progress-bar{
+    width: 1px;
+    height: 10px;
+    transition: 0.9s;
+    background: #149ddd;
+}
