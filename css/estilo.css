@@ -434,6 +434,11 @@ section {
 .resume .resume-item ul li{
     padding-bottom: 10px;
 }
+/* .resume .resume-item:last-child{
+    padding-bottom: 0;
+}
+*/
+
 .resume .resume-item::before {
     content: "";
     position: absolute;
